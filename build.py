@@ -119,7 +119,7 @@ def get_paper_entry(entry_key, entry):
     else:
         s += f"""<span style="font-style: italic;">{entry.fields['school']}</span>, {entry.fields['year']} <br>"""
 
-    artefacts = {"pdf": "Paper", "supp": "Supplemental", "video": "Video", "poster": "Poster", "code": "Code"}
+    artefacts = {"pdf": "Paper", "supp": "Supplemental", "page": "ProjectPage", "video": "Video", "poster": "Poster", "code": "Code"}
     i = 0
     for k, v in artefacts.items():
         if k in entry.fields.keys():
