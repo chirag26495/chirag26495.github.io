@@ -15,13 +15,13 @@ def get_personal_data():
                 </p>
 
                 <p>
-                    <span style="font-weight: bold;">Interests:</span>
-                    My research lies at the intersection of computer vision and machine learning, with a focus on addressing the challenges of developing ADAS solutions for dense, unstructured traffic environments. I am currently working on video-based driver behavior understanding and interactive video question answering to enhance explainability in driving scenarios.
+                    <span style="font-weight: bold;">Research Interests:</span>
+                    My research lies at the intersection of computer vision and multimodal learning, with a focus on video understanding for intelligent transportation systems. I develop video-language models, VideoQA benchmarks, visual grounding methods, explainable AI techniques, and driver behavior modeling approaches to enable AI systems to better understand complex road environments. Currently, I am working on Video Large Language Models (VideoLLMs) for consistent spatio-temporal grounding of objects and events in dynamic driving scenes.
                 </p>
 
                 <p>
                     <span style="font-weight: bold;">Bio:</span>
-                    I completed my B.E. from Birla Institute of Technology, Mesra in 2017, where I worked on robotic vision projects with the college robotics society. Before starting my PhD in 2022, I developed computer vision systems for driver behavior monitoring and satellite-based cropland analysis in industry.
+                    Before my PhD, I developed computer vision systems for driver behavior monitoring and satellite-based cropland analysis in industry. I completed my B.E. from Birla Institute of Technology, Mesra in 2017, where I worked on robotic vision projects with the college robotics society.
                 </p>
 
                 <p>For any inquiries, feel free to write an email!</p>
